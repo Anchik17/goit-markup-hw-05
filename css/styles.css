@@ -664,6 +664,10 @@ img {
   margin-bottom: 8px;
 }
 
+.modal-field-email {
+  margin-bottom: 16px;
+}
+
 .modal-checkbox {
   width: 338px;
 }
